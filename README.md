@@ -24,4 +24,4 @@ __Автономные сообщества Испании:__
 15. Наварра;
 16. Риоха;
 17. Эстремадура;
-![](https://ru.wikipedia.org/wiki/Испания#/media/Файл:Flag_of_Spain.svg)
+![](https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg#/media/Файл:Flag_of_Spain.svg)
